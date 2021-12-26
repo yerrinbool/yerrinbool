@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jim, AD5YU. 
+- 👀 I’m interested in micro controllers, amateur radio projects, solar power and engineering.
+- 🌱 I’m currently learning to use micro controllers like Adafruit ESP32 Feather to make solar charge controllers for emergency power systems. 
+- 💞️ I’m looking to collaborate on micro contoller projects in the amateur radio or power electronics area. 
+- 📫 You can reach me on github or at yerrinbool@gmail.com
